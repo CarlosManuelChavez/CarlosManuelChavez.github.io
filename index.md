@@ -1,6 +1,7 @@
 # Carlos Chavez's Portfolio 
 
-I am a Computer Science student at Cal State Fullerton and I expect to graduate in 2028.
+Hello, my name is Carlos Chavez and I am currently a freshman at Cal State Fullerton I expect to graduate in 2028. 
+  : My major is Computer Science
 
 ## Favorite CPSC 120L Labs
 * Lab 11
