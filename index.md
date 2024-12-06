@@ -4,6 +4,8 @@ Hello, my name is Carlos Chavez and I am currently a freshman at Cal State Fulle
 
 Major: Computer Science
 
+Link to GitHub Here ➡️ https://github.com/CarlosManuelChavez ⬅️
+
 ## Favorite CPSC 120L Labs
 * Lab 11
   
